@@ -92,7 +92,7 @@ div#content, div#infobox{
 }
 
 div#content{
-    max-width:400px;
+    max-width:50%;
 }
 
 div#infobox{
