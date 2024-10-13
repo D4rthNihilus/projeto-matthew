@@ -97,7 +97,7 @@ div#content{
 }
 
 div#infobox{
-    max-width: 50%;
+    width: 700px;
     position: absolute;
     border: 1px solid black;
 }
