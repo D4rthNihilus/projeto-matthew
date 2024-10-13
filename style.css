@@ -58,6 +58,7 @@ main>section>h1{
 }
 
 main{
+    margin: 0% 20%;
     background-color: white;
 }
 
@@ -91,12 +92,11 @@ div#content, div#infobox{
 }
 
 div#content{
-    max-width: 30em;
-    min-width: 100px;
+    width:400px;
 }
 
 div#infobox{
-    width: 500px;
+    max-width: 450px;
     position: absolute;
     border: 1px solid black;
 }
