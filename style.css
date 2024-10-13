@@ -58,12 +58,12 @@ main>section>h1{
 }
 
 main{
-    max-width: 860px;
+    max-width: 70%;
     background-color: white;
 }
 
 main>section>h1, hr{
-    margin: 5px 20px;
+    margin: 5px 0px 5px 20px;
 }
 
 article{
@@ -92,11 +92,12 @@ div#content, div#infobox{
 }
 
 div#content{
-    max-width: 55%;
+    max-width: 30em;
+    min-width: 100px;
 }
 
 div#infobox{
-    max-width: 42.3%;
+    min-width: 50%;
     position: absolute;
     border: 1px solid black;
 }
